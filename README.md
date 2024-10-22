@@ -149,3 +149,4 @@ $ git diff gerrit/master -- ':(exclude)vendor/' ':(exclude)Gopkg*'
 
 This is not an official Google product
 Hello World
+Hello World
